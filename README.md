@@ -1,3 +1,3 @@
 # enyata
 API endpoint
-/api/incidents-reports
+/api/incident-reports
